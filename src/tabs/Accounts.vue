@@ -11,8 +11,8 @@ import Badge from '../components/Badge.vue';
         <template #subtitle>Manage access and permissions for employees with accounts.</template>
     </TabHeader>
     <section class="w-full mt-4">
-        <div class="grow  border rounded-2xl border-zinc-200 overflow-hidden">
-            <table class="table-auto w-full shadow-xs  min-w-full"
+        <div class="grow  border rounded-2xl border-zinc-200 overflow-hidden overflow-x-auto">
+            <table class="table-auto w-full shadow-xs  min-w-full "
                 style=" border-collapse: separate; border-spacing: 0; ">
                 <thead class="bg-zinc-50 text-xs">
                     <tr class="">
